@@ -1,0 +1,22 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Pera",
+      "price": 1000,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Uva",
+      "price": 50,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "name": "Tamara",
+      "price": 200,
+      "quantity": 12
+    }
+  ]
+}
